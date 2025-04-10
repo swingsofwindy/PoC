@@ -1,2 +1,5 @@
 # Remove folder terraform from git
 .terraform/
+
+# Remove .terraform.lock.hcl from git
+.terraform.lock.hcl
